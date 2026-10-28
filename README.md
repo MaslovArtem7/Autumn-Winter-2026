@@ -1,12 +1,13 @@
 <div align="center">
 
-# 🍂 Осень – Зима 2026 – ПиКЯП ❄️
+# 🍂 Autumn — Winter 2026 ❄️
 
-### Learn · Build · Improve
-**Здравствуйте!**
+### Парадигмы и конструкции языков программирования
 
-![Season](https://img.shields.io/badge/season-autumn%20%2F%20winter-BC6C45?style=for-the-badge)
-![Year](https://img.shields.io/badge/year-2026-415A77?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-in%20progress-5A8F7B?style=for-the-badge)
+**МГТУ им. Н. Э. Баумана | ИУ5-32Б | 2026–2027**
+**Артем Маслов**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Course](https://img.shields.io/badge/ПиКЯП-2026--2027-6C63FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-2E8B57?style=for-the-badge)
 
 </div>
